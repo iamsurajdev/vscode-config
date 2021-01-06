@@ -1,0 +1,110 @@
+{
+  "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+  "editor.codeActionsOnSave": { "source.fixAll": true },
+  "window.zoomLevel": -1,
+  "editor.fontLigatures": true,
+  "terminal.integrated.fontFamily": "CaskaydiaCove Nerd Font",
+  "editor.fontFamily": "CaskaydiaCove Nerd Font",
+  "workbench.iconTheme": "material-icon-theme",
+  "javascript.implicitProjectConfig.experimentalDecorators": true,
+  "emmet.extensionsPath": "",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "workbench.editor.highlightModifiedTabs": true,
+  "editor.cursorStyle": "block",
+  "editor.cursorBlinking": "smooth",
+  "files.trimFinalNewlines": true,
+  "editor.acceptSuggestionOnEnter": "off",
+  "workbench.editor.enablePreview": false,
+  "workbench.startupEditor": "newUntitledFile",
+  "editor.renameOnType": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "better-comments.tags": [
+    {
+      "tag": "!",
+      "color": "#FF2D00",
+      "strikethrough": false,
+      "underline": true,
+      "backgroundColor": "transparent",
+      "bold": true,
+      "italic": true
+    },
+    {
+      "tag": "?",
+      "color": "#3498DB",
+      "strikethrough": false,
+      "underline": true,
+      "backgroundColor": "transparent",
+      "bold": true,
+      "italic": true
+    },
+    {
+      "tag": "//",
+      "color": "#474747",
+      "strikethrough": true,
+      "underline": true,
+      "backgroundColor": "transparent",
+      "bold": true,
+      "italic": true
+    },
+    {
+      "tag": "todo",
+      "color": "#FF8C00",
+      "strikethrough": false,
+      "underline": true,
+      "backgroundColor": "transparent",
+      "bold": true,
+      "italic": true
+    },
+    {
+      "tag": "*",
+      "color": "#98C379",
+      "strikethrough": false,
+      "underline": true,
+      "backgroundColor": "transparent",
+      "bold": true,
+      "italic": true
+    }
+  ],
+  "workbench.colorCustomizations": {
+    "editor.background": "#1b262c",
+    "editorCursor.background": "#040030",
+    "editorCursor.foreground": "#fffb00",
+    "sideBarSectionHeader.background": "#2193af",
+    "sideBarSectionHeader.foreground": "#000000",
+    "sideBar.foreground": "#ffffff",
+    "sideBar.border": "#51ff00",
+    "sideBar.background": "#113636",
+    "sideBarSectionHeader.border": "#00ff15",
+    "statusBar.background": "#10861a",
+    "statusBar.foreground": "#e7e7e7",
+    "activityBar.activeBackground": "#8c00ff",
+    "activityBar.activeBorder": "#ffee00",
+    "activityBar.background": "#54b0c0",
+    "activityBar.foreground": "#ffffff",
+    "activityBar.inactiveForeground": "#000000",
+    "activityBarBadge.background": "#ffee00",
+    "activityBarBadge.foreground": "#040030",
+    "editorLineNumber.foreground": "#d1d1d1",
+    "tab.border": "#ffee00",
+    "tab.activeBorderTop": "#ffee00",
+    "tab.activeBorder": "#ffee00",
+    "titleBar.activeBackground": "#10861a",
+    "titleBar.activeForeground": "#ffffff",
+    "titleBar.inactiveBackground": "#07500d",
+    "titleBar.inactiveForeground": "#ffffff",
+    "breadcrumb.background": "#10861a",
+    "breadcrumb.foreground": "#dfdfdf",
+    "editorGutter.background": "#2a3c46"
+  },
+  "code-runner.runInTerminal": true,
+  "workbench.colorTheme": "Night Owl",
+  "js/ts.implicitProjectConfig.experimentalDecorators": true
+}
