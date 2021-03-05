@@ -1,12 +1,11 @@
 {
   "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
   "editor.codeActionsOnSave": { "source.fixAll": true },
-  "window.zoomLevel": -1,
+  "window.zoomLevel": 1,
   "editor.fontLigatures": true,
-  "terminal.integrated.fontFamily": "Cascadia Mono",
-  "editor.fontFamily": "Cascadia Mono",
+  "terminal.integrated.fontFamily": "Cascadia Code",
+  "editor.fontFamily": "Cascadia Code",
   "workbench.iconTheme": "material-icon-theme",
-  "javascript.implicitProjectConfig.experimentalDecorators": true,
   "emmet.extensionsPath": "",
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "[javascript]": {
@@ -21,7 +20,7 @@
   "editor.acceptSuggestionOnEnter": "off",
   "workbench.editor.enablePreview": false,
   "workbench.startupEditor": "newUntitledFile",
-  "editor.renameOnType": true,
+  "editor.linkedEditing": true,
   "javascript.updateImportsOnFileMove.enabled": "always",
   "emmet.includeLanguages": {
     "javascript": "javascriptreact"
@@ -106,5 +105,27 @@
   },
   "code-runner.runInTerminal": true,
   "workbench.colorTheme": "Night Owl",
-  "js/ts.implicitProjectConfig.experimentalDecorators": true
+  "js/ts.implicitProjectConfig.experimentalDecorators": true,
+  "tabnine.experimentalAutoImports": true,
+  "explorer.confirmDragAndDrop": false,
+  "explorer.confirmDelete": false,
+  "material-ui-snippets.showNotesOnStartup": false,
+  "[dart]": {
+    "editor.defaultFormatter": "Dart-Code.dart-code",
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "editor.rulers": [80],
+    "editor.selectionHighlight": false,
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "editor.suggestSelection": "first",
+    "editor.tabCompletion": "onlySnippets",
+    "editor.wordBasedSuggestions": false
+  },
+  "dart.openDevTools": "flutter",
+
+  // Causes the debug view to automatically appear when a breakpoint is hit. This
+  // setting is global and not configurable per-language.
+  "debug.openDebug": "openOnDebugBreak",
+  "dart.previewFlutterUiGuides": true,
+  "dart.previewFlutterUiGuidesCustomTracking": true
 }
