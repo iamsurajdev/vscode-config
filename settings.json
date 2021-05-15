@@ -1,6 +1,6 @@
 {
   "editor.codeActionsOnSave": { "source.fixAll": true },
-  "window.zoomLevel": 2,
+  "window.zoomLevel": 1,
   "editor.fontLigatures": true,
   "terminal.integrated.fontFamily": "Cascadia Code",
   "editor.fontFamily": "Cascadia Code",
@@ -45,7 +45,7 @@
     },
     {
       "tag": "//",
-      "color": "#474747",
+      "color": "#FF00BF",
       "strikethrough": true,
       "underline": true,
       "backgroundColor": "transparent",
@@ -71,39 +71,40 @@
       "italic": true
     }
   ],
+
   "workbench.colorCustomizations": {
     "editor.background": "#1b262c",
-    "editorCursor.background": "#040030",
+    "editorCursor.background": "#000000",
     "editorCursor.foreground": "#fffb00",
-    "sideBarSectionHeader.background": "#2193af",
+    "sideBarSectionHeader.background": "#089969",
     "sideBarSectionHeader.foreground": "#000000",
     "sideBar.foreground": "#ffffff",
-    "sideBar.border": "#51ff00",
-    "sideBar.background": "#113636",
-    "sideBarSectionHeader.border": "#00ff15",
-    "statusBar.background": "#10861a",
+    "sideBar.border": "#213972",
+    "sideBar.background": "#313130",
+    "sideBarSectionHeader.border": "#66cdd6",
+    "statusBar.background": "#c123d6",
     "statusBar.foreground": "#e7e7e7",
-    "activityBar.activeBackground": "#8c00ff",
-    "activityBar.activeBorder": "#ffee00",
+    "activityBar.activeBackground": "#d6b703",
+    "activityBar.activeBorder": "#1100ff",
     "activityBar.background": "#54b0c0",
     "activityBar.foreground": "#ffffff",
     "activityBar.inactiveForeground": "#000000",
-    "activityBarBadge.background": "#ffee00",
-    "activityBarBadge.foreground": "#040030",
+    "activityBarBadge.background": "#c123d6",
+    "activityBarBadge.foreground": "#ffffff",
     "editorLineNumber.foreground": "#d1d1d1",
-    "tab.border": "#ffee00",
-    "tab.activeBorderTop": "#ffee00",
-    "tab.activeBorder": "#ffee00",
-    "titleBar.activeBackground": "#10861a",
+    "tab.border": "#05b8be",
+    "tab.activeBorderTop": "#05b8be",
+    "tab.activeBorder": "#05b8be",
+    "tab.activeForeground": "#ffffff",
+    "titleBar.activeBackground": "#6812d8",
     "titleBar.activeForeground": "#ffffff",
-    "titleBar.inactiveBackground": "#07500d",
+    "titleBar.inactiveBackground": "#0f4488",
     "titleBar.inactiveForeground": "#ffffff",
-    "breadcrumb.background": "#10861a",
+    "breadcrumb.background": "#4a0f7a",
     "breadcrumb.foreground": "#dfdfdf",
-    "editorGutter.background": "#2a3c46"
+    "editorGutter.background": "#0b5e77"
   },
   "code-runner.runInTerminal": true,
-  "workbench.colorTheme": "Night Owl",
   "js/ts.implicitProjectConfig.experimentalDecorators": true,
   "tabnine.experimentalAutoImports": true,
   "explorer.confirmDragAndDrop": false,
@@ -147,5 +148,6 @@
     },
     "scminput": true,
     "git-commit": true
-  }
+  },
+  "workbench.colorTheme": "Halcyon"
 }
