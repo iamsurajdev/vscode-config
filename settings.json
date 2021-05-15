@@ -1,12 +1,11 @@
 {
-  "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
   "editor.codeActionsOnSave": { "source.fixAll": true },
-  "window.zoomLevel": 1,
+  "window.zoomLevel": 2,
   "editor.fontLigatures": true,
   "terminal.integrated.fontFamily": "Cascadia Code",
   "editor.fontFamily": "Cascadia Code",
   "workbench.iconTheme": "material-icon-theme",
-  "emmet.extensionsPath": "",
+  "emmet.extensionsPath": [""],
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "[javascript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
@@ -127,5 +126,26 @@
   // setting is global and not configurable per-language.
   "debug.openDebug": "openOnDebugBreak",
   "dart.previewFlutterUiGuides": true,
-  "dart.previewFlutterUiGuidesCustomTracking": true
+  "dart.previewFlutterUiGuidesCustomTracking": true,
+  "workbench.sideBar.location": "right",
+  "dart.showInspectorNotificationsForWidgetErrors": false,
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "workbench.editorAssociations": [
+    {
+      "viewType": "jupyter.notebook.ipynb",
+      "filenamePattern": "*.ipynb"
+    }
+  ],
+  "python.showStartPage": false,
+  "cSpell.enableFiletypes": ["dart"],
+  "emojisense.languages": {
+    "markdown": true,
+    "plaintext": {
+      "markupCompletionsEnabled": false,
+      "emojiDecoratorsEnabled": false
+    },
+    "scminput": true,
+    "git-commit": true
+  }
 }
