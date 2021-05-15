@@ -8,7 +8,7 @@ This is my own VS-code config file ( scroll down for my extensions list )
 
 [:red_circle: LinkedIn](https://www.linkedin.com/in/suraj-biswas-824bb4176/)
 
-[:red_circle: YouTube](https://www.youtube.com/channel/UClS_wbN0kW0KtVop9EgZLAg)
+[:red_circle: Tweeter](https://twitter.com/iamsuraj_dev)
 
 # How to use
 
@@ -19,11 +19,15 @@ open the settings.json file copy everything and pest in your settings.json file
 1. copy the text from my settings.json file
 2. open VS-code -> ctrl + ,
 3. scroll down and find "open settings.json"
-4. open the settings.json and replace the whole content with my file and save the file
+4. open the settings.json and replace the whole content with my settings.json file and save it
 
 # Screenshot of my custom VS-code 🌟
 
+## Green Demon :jack_o_lantern: ( [Link](https://github.com/iamsurajdev/vscode-config/tree/green-demon) )
+
 ![imagename](./images/green-demon.png)
+
+## Eye Candy 🍬 ( [Link](https://github.com/iamsurajdev/vscode-config/tree/eye-candy) )
 
 ![imagename](./images/eye-candy.png)
 
