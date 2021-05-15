@@ -21,9 +21,11 @@ open the settings.json file copy everything and pest in your settings.json file
 3. scroll down and find "open settings.json"
 4. open the settings.json and replace the whole content with my file and save the file
 
-# Screenshot of my custom VS-code :star2
+# Screenshot of my custom VS-code 🌟
 
 ![imagename](./images/green-demon.png)
+
+![imagename](./images/eye-candy.png)
 
 # Extentions List
 
