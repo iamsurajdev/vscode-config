@@ -2,7 +2,7 @@
 
 This is my own VS-code config file ( scroll down for my extensions list )
 
-## Connect with me :dart: :point_down:
+## Connect with me :dart: :point_down
 
 [:red_circle: Instagram](https://www.instagram.com/iamsuraj_dev/)
 
@@ -21,9 +21,9 @@ open the settings.json file copy everything and pest in your settings.json file
 3. scroll down and find "open settings.json"
 4. open the settings.json and replace the whole content with my file and save the file
 
-# Screenshot of my custom VS-code :star2:
+# Screenshot of my custom VS-code :star2
 
-![imagename](./images/screenshot.png)
+![imagename](./images/green-demon.png)
 
 # Extentions List
 
