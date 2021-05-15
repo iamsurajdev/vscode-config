@@ -31,18 +31,40 @@ open the settings.json file copy everything and pest in your settings.json file
 
 ![imagename](./images/eye-candy.png)
 
-# Extentions List
+# Extentions That I Use ⬇️
 
+- :emojisense:
+- advanced-new-file
 - Auto Rename Tag
+- Awesome Flutter Snippets
 - Better Comments
+- Bracket Pair Colorizer
 - Code Spell Checker
+- Color Highlight
+- css-auto-prefix
+- Dart
+- Debugger for Chrome
+- Docker
 - ES7 React/Redux/GraphQL/React-Native snippets
+- File Utils
+- Flutter
 - GitLens — Git supercharged
-- HTML Snippets
+- Halcyon Theme
 - JavaScript (ES6) code snippets
-- Markdown Emoji
+- Jupyter
+- Live Server
 - markdownlint
 - Material Icon Theme
+- Material-UI Snippets
+- Next.js snippets
+- Night Owl
 - Prettier - Code formatter
+- Pylance
+- Python
+- Quokka.js
+- Sass
+- Svg Preview
+- Thunder Client
+- Visual Studio IntelliCode
 
 ## Please give this repo a star :star: it will motivate me more thank you
