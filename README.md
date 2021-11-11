@@ -2,7 +2,7 @@
 
 This is my own VS-code config file ( scroll down for my extensions list )
 
-## Connect with me :dart: :point_down
+## Connect with me :dart:
 
 [:red_circle: Instagram](https://www.instagram.com/iamsuraj_dev/)
 
